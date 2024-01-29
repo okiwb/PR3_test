@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PR3_test</string>
+    <string name="ToGenerate">Сгенерировать!</string>
+    <string name="textField">Приложение для генерации паролей.</string>
+</resources>
